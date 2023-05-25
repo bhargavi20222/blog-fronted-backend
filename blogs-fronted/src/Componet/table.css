@@ -1,0 +1,84 @@
+ table tr th {
+     background-color: rgb(104, 173, 201);
+     border: 1px solid;
+     text-align: center;
+     color: aliceblue;
+     padding: 5px;
+     width: 200px;
+ }
+
+ table tr td {
+     padding: 20px;
+     text-align: center;
+     padding: 5px;
+
+ }
+
+ tr:nth-child(even) {
+     background-color: rgb(235, 231, 231);
+ }
+
+ table {
+
+     margin-top: 20px;
+ }
+
+ /* CSS delete */
+ .button-24 {
+     background: #FF4742;
+     border: 1px solid #FF4742;
+     border-radius: 6px;
+     box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+     box-sizing: border-box;
+     color: #FFFFFF;
+     font-size: 14px;
+     font-weight: 800;
+     line-height: 16px;
+     min-height: 40px;
+     outline: 0;
+     padding: 12px 14px;
+     text-align: center;
+
+ }
+
+ .button-24:hover,
+ .button-24:active {
+     background-color: initial;
+     background-position: 0 0;
+     color: #FF4742;
+ }
+
+ .button-24:active {
+     opacity: .5;
+ }
+
+
+
+ /* CSS edit */
+ .button-24 {
+     background: #FF4742;
+     border: 1px solid #FF4742;
+     border-radius: 6px;
+     box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+     box-sizing: border-box;
+     color: #FFFFFF;
+     font-size: 14px;
+     font-weight: 800;
+     line-height: 16px;
+     min-height: 40px;
+     outline: 0;
+     padding: 12px 14px;
+     text-align: center;
+
+ }
+
+ .button-24:hover,
+ .button-24:active {
+     background-color: initial;
+     background-position: 0 0;
+     color: #FF4742;
+ }
+
+ .button-24:active {
+     opacity: .5;
+ }
